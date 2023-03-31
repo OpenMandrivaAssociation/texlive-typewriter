@@ -1,6 +1,6 @@
 Name:		texlive-typewriter
 Version:	46641
-Release:	1
+Release:	2
 Summary:	Typeset with a randomly variable monospace font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typewriter
